@@ -1,0 +1,51 @@
+id_barang,nama_barang,kategori,stok,harga
+BRG-236,iPhone 13,Elektronik,7,10000000
+BRG-431,iPhone 14,Elektronik,42,12000000
+BRG-244,iPhone 15 Pro,Elektronik,13,20000000
+BRG-883,Samsung S23,Elektronik,48,11000000
+BRG-662,Samsung S24 Ultra,Elektronik,38,19000000
+BRG-792,Xiaomi 13,Elektronik,8,8000000
+BRG-592,Macbook Air M1,Laptop,43,13000000
+BRG-227,Macbook Pro M2,Laptop,36,22000000
+BRG-977,Asus ROG,Laptop,39,25000000
+BRG-788,Kemeja Flanel,Pakaian,3,150000
+BRG-158,Kaos Polos,Pakaian,26,50000
+BRG-656,Jaket Bomber,Pakaian,29,250000
+BRG-673,Celana Jeans,Pakaian,27,200000
+BRG-602,Celana Chino,Pakaian,38,180000
+BRG-799,Hoodie Polos,Pakaian,34,120000
+BRG-779,Sepatu Nike,Sepatu,12,1500000
+BRG-622,Sepatu Adidas,Sepatu,2,1300000
+BRG-180,Sepatu Vans,Sepatu,44,800000
+BRG-110,Sandal Jepit,Sepatu,5,15000
+BRG-571,Sandal Gunung,Sepatu,32,150000
+BRG-730,iPhone 15 Pro,Elektronik,44,20000000
+BRG-253,Kaos Polos,Pakaian,29,50000
+BRG-437,Jaket Bomber,Pakaian,15,250000
+BRG-437,Samsung S23,Elektronik,22,11000000
+BRG-698,Sandal Gunung,Sepatu,50,150000
+BRG-951,Macbook Pro M2,Laptop,18,22000000
+BRG-890,iPhone 14,Elektronik,15,12000000
+BRG-594,Hoodie Polos,Pakaian,44,120000
+BRG-557,Hoodie Polos,Pakaian,6,120000
+BRG-751,Kaos Polos,Pakaian,9,50000
+BRG-684,Sepatu Nike,Sepatu,40,1500000
+BRG-813,Sepatu Nike,Sepatu,30,1500000
+BRG-479,Kaos Polos,Pakaian,49,50000
+BRG-150,Kemeja Flanel,Pakaian,42,150000
+BRG-372,Xiaomi 13,Elektronik,33,8000000
+BRG-299,Celana Jeans,Pakaian,5,200000
+BRG-282,iPhone 15 Pro,Elektronik,15,20000000
+BRG-405,Macbook Air M1,Laptop,19,13000000
+BRG-113,Jaket Bomber,Pakaian,30,250000
+BRG-502,Hoodie Polos,Pakaian,23,120000
+BRG-784,iPhone 13,Elektronik,12,10000000
+BRG-495,Samsung S23,Elektronik,19,11000000
+BRG-473,Jaket Bomber,Pakaian,44,250000
+BRG-850,Kaos Polos,Pakaian,30,50000
+BRG-817,Sandal Jepit,Sepatu,50,15000
+BRG-211,Hoodie Polos,Pakaian,21,120000
+BRG-701,Jaket Bomber,Pakaian,16,250000
+BRG-196,iPhone 15 Pro,Elektronik,1,20000000
+BRG-650,Samsung S23,Elektronik,22,11000000
+BRG-197,Jaket Bomber,Pakaian,1,250000
